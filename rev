@@ -1,3 +1,0 @@
-s="divya"
-a=reverse(s)
-print(a)
